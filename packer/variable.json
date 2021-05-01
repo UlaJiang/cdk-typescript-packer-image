@@ -1,0 +1,5 @@
+{
+  "aws-region": "ap-southeast-2",
+  "ami-name": "rhel8-latest-nginx-openjdkami",
+  "ec2-instance-type": "t2.micro"
+}
